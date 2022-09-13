@@ -1,3 +1,3 @@
 # Hello VuePress
 
-初次更新1
+初次更新2
